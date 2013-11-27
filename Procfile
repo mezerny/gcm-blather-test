@@ -1,1 +1,1 @@
-bot: bundle exec ruby blather_gcm.rb -D
+bot: bundle exec ruby xmpp4r_gcm.rb -D
